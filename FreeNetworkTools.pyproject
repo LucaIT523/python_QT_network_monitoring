@@ -1,0 +1,32 @@
+{
+    "files": [
+        "freenetworktools.py",
+        "FreenetWorkTools.spec",
+        "version.txt",
+        "Modules/widget_mib_panel.py",
+        "Modules/widget_monitoring_panel.py",
+        "Modules/dialog_ping_check.py",
+        "Modules/dialog_snmp_request.py",
+        "Forms/ui_form_main.ui",
+        "Forms/ui_form_main.py",
+        "Forms/ui_widget_mib_panel.ui",
+        "Forms/ui_widget_monitoring_panel.ui",
+        "Forms/ui_dialog_snmp_request.ui",
+        "Forms/ui_dialog_snmp_request.py",
+        "Forms/ui_dialog_ping.ui",
+        "Forms/ui_dialog_ping.py",
+        "Forms/ui_widget_mib_panel.py",
+        "Forms/ui_widget_monitoring_panel.py",
+        "Forms/ui_dialog_snmp.ui",
+        "Forms/ui_dialog_ping_others.ui",
+        "Forms/ui_dialog_tcp.ui",
+        "Forms/ui_dialog_traceroute.ui",
+        "Forms/ui_dialog_whois.ui",
+        "Forms/ui_dialog_ip_calculator.ui",
+        "Forms/ui_dialog_sla_calculator.ui",
+        "Forms/ui_dialog_splash.ui",
+        "Forms/ui_dialog_web.ui",
+
+        "res/Pandora MINI bg.png"
+    ]
+}
